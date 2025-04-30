@@ -18,12 +18,14 @@ ________________________________________
 -	**Shipment Analysis**
 -	**Country-wise sales**
 -	**Category-wise sales**
--	**Salesperson category sales**
+-	**Salesperson Category sales**
+-	**Product Category Sales**
 ________________________________________
 ## 💡Key Insights
 -	Gained valuable insights into **Awesome Chocolate** sales performance across various categories, regions, and Shipments.
 -	Awesome Chocolate bars from Canada have overall more shipments and profits
--	Identified top-performing salespersons and sales trends.
+-	Identified top-performing salespersons and sales trends
+-	Identified top-performing products and sales trends.
 ________________________________________
 ## 🚀 Getting Started
 1.	Download Awesome-Chocolates Analytics Dashboard. pbix
