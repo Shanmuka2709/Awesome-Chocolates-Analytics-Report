@@ -4,8 +4,8 @@ This project presents an interactive **Awesome-Chocolates sales analytics dashbo
 ________________________________________
 ## 📂 Dataset Description
 The dataset includes the following fields:
-•	Sales Person, Geography, Products, Date, Sales, and Boxes
-•	Products, Category, and Cost Per Box
+-	Sales Person, Geography, Products, Date, Sales, and Boxes
+-	Products, Category, and Cost Per Box
 ________________________________________
 ## 🛠 Tools & Technologies Used
 •	Power BI Desktop
