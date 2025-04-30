@@ -1,6 +1,6 @@
 # 📊 Awesome-Chocolates Analytics Dashboard | Power BI Project
 ## 📝 Project Overview
-This project presents an interactive **Awesome-Chocolates sales analytics dashboard** built in Power BI. The dashboard helps organizations analyse workforce metrics such as Country-wise sales, Category-wise sales, Shipment Analysis, Monthly sales, salesperson category performance with their respective profits for smarter decision-making.
+This project presents an interactive **Awesome-Chocolates sales analytics dashboard** built in Power BI. The dashboard helps organizations analyse workforce metrics such as country-wise sales, category-wise sales, shipment Analysis, monthly sales, salesperson category performance with their respective profits for smarter decision-making.
 ________________________________________
 ## 📂 Dataset Description
 The dataset includes the following fields:
@@ -33,6 +33,6 @@ ________________________________________
 ## 📬 Connect With Me
 👤 **[Shanmuka Sai]**.
 📧 [shanmukasai57@gmail.com].
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shanmukapula09/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shanmukapula09/).
 ________________________________________
 
