@@ -8,22 +8,22 @@ The dataset includes the following fields:
 -	Products, Category, and Cost Per Box
 ________________________________________
 ## 🛠 Tools & Technologies Used
-•	Power BI Desktop
-•	Power Query
-•	DAX (Data Analysis Expressions)
-•	CSV / Excel data sources
+-	Power BI Desktop
+-	Power Query
+-	DAX (Data Analysis Expressions)
+-	CSV / Excel data sources
 ________________________________________
 ## 📈 Dashboard Features
-•	**Sales, Boxes, Shipments, Cost, and Profit by the start of the month**
-•	**Shipment Analysis**
-•	**Country-wise sales**
-•	**Category-wise sales**
-•	**Salesperson category sales**
+-	**Sales, Boxes, Shipments, Cost, and Profit by the start of the month**
+-	**Shipment Analysis**
+-	**Country-wise sales**
+-	**Category-wise sales**
+-	**Salesperson category sales**
 ________________________________________
 ## 💡Key Insights
-•	Gained valuable insights into **Awesome Chocolate** sales performance across various categories, regions, and Shipments.
-•	Awesome Chocolate bars from Canada have overall more shipments and profits
-•	Identified top-performing salespersons and sales trends.
+-	Gained valuable insights into **Awesome Chocolate** sales performance across various categories, regions, and Shipments.
+-	Awesome Chocolate bars from Canada have overall more shipments and profits
+-	Identified top-performing salespersons and sales trends.
 ________________________________________
 ## 🚀 Getting Started
 1.	Download Awesome-Chocolates Analytics Dashboard. pbix
