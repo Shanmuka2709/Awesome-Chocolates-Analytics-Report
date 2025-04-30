@@ -31,8 +31,8 @@ ________________________________________
 3.	Explore visuals and filters for insights
 ________________________________________
 ## 📬 Connect With Me
--👤 **[Shanmuka Sai]**
--📧 [shanmukasai57@gmail.com]
--🔗 [LinkedIn Profile](https://www.linkedin.com/in/shanmukapula09/)
+👤. **[Shanmuka Sai]**
+📧. [shanmukasai57@gmail.com]
+🔗. [LinkedIn Profile](https://www.linkedin.com/in/shanmukapula09/)
 ________________________________________
 
